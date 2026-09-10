@@ -1,0 +1,1 @@
+shrink image-compression jpeg webp avif batch navigatorslab-tools browser client-side offline-first privacy-tools no-upload mit-license javascript
